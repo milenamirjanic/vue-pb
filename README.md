@@ -1,24 +1,10 @@
 # vue-pb
+Aplikacija Imenik
+_
 
-## Project setup
-```
-npm install
-```
+VUE.JS
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Cilj zadatka je izrada imenika u tehnologiji Vue.js.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Napomena: Stranica nije uspesno objavljena (github pages) jer postoje neke greske tokom tog procesa koje i nakon pokusaja nisam uspela da odstranim.
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
